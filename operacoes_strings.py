@@ -17,12 +17,11 @@ print('Primeiro caractere: ', palavra[-10])
 
 print('-'*50)
 
-#subpalavras -> slicing ou fatiamento
+# subpalavras -> slicing ou fatiamento
 print(palavra[3:6])  # fatiar do índice 3 até o índice 5
 print(palavra[6:10])  # fatiar do índice 6 até o índice 9
 print(palavra[2:8])  # fatiar do índice 2 até o índice 7
 print(palavra[:7])  # fatiar do início até o índice 6
-print(palavra[:7])  # fatiar do índice 2 até o índice 7
 print(palavra[6:])  # fatiar do índice 6 até o final
 print(palavra[:])  # fatiar do início ao fim (palavra inteira)
 

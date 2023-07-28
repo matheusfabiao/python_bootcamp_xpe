@@ -14,7 +14,7 @@ w = 0
 
 
 # Erros Lógicos:
-# É o tipo de erro mais difícil de lidar, pois o erro não é de fato detectador
+# É o tipo de erro mais difícil de lidar, pois o erro não é de fato detectado
 a = 5.0
 b = 7.0
 c = 12.0

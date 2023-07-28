@@ -11,7 +11,7 @@ print('ano_atual convertido:', type(str(ano_atual)))
 
 print('-'*50)
 
-print(int(float('99.0')))# realiza primeiro a conversão para float e depois para inteiro, caso contrário daria um erro dem tempo de execução
+print(int(float('99.0')))# realiza primeiro a conversão para float e depois para inteiro, caso contrário daria um erro de tempo de execução
 
 print('-'*50)
 
