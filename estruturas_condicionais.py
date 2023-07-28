@@ -1,8 +1,8 @@
 # Estrutura condicional IF:
-'''
+"""
 if <expressão>
     <bloco de código se a expressão é verdadeira>
-'''
+"""
 
 y = 0
 a = 0
