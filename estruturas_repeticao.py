@@ -67,3 +67,7 @@ for num in range(250, 301):
         print(f'Número encontrado: {num}')
         # se for divisível por 21, interrompe a busca
         break
+
+while True:
+    print('Matheus Fabião')
+    break
