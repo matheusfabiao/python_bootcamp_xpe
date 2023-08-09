@@ -27,6 +27,7 @@ for item in l3:
 print(f'Resultado: l1 = {soma_l1}, l2 = {soma_l2}, l3 = {soma_l3}')
 '''
 
+
 # MÉTODO COM FUNÇÕES:
 def soma_lista(lista):
     soma = 0
