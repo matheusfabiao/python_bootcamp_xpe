@@ -1,0 +1,21 @@
+SP; SÃ£o Paulo; 11895893
+RJ; Rio de Janeiro; 6453692
+BA; Salvador; 2902927
+DP; BrasÃ­lia; 2852372
+CE; Fortaleza: 2571896
+MG; Belo Horizonte; 2491109
+AM; Manaus; 2020301
+PR; Curitiba; 1664416
+PE; Recife; 1608488
+RS; Forto Alegre; 1472482
+PA; BelÃ©m; 1432644
+GO; Goiania; 1412364
+SP; Guarulhos; 1312197
+SP; Campinas; 1154617
+MA; SÃ£o LuÃ­s; 1066197RJ
+RJ; Sï¿½o Gonï¿½alo; 1031903
+
+RJ; São Gonçalo; 1031903
+DP; Brasília; 2852372
+CE; Fortaleza: 2571896
+MG; Belo Horizonte; 2491109
